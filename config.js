@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Sao nói cái gì hiển nhiên vậy? Cậu cũng đẹp lắm đó',
     messDesc: 'Chủ nhuật làm chuyến đi chơi không?',
     btnAccept: 'Rất sẵn lòng',
-    messLink: 'file:///D:/love_confession_web/index.html' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://682f4aab077b08320e6fd6a1--timely-sherbet-b0c651.netlify.app' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
